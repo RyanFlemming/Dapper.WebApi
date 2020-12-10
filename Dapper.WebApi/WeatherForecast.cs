@@ -1,6 +1,6 @@
 using System;
 
-namespace Dapper.WebApi
+namespace Dapper.Core
 {
     public class WeatherForecast
     {

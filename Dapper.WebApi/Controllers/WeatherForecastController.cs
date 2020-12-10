@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 
-namespace Dapper.WebApi.Controllers
+namespace Dapper.Core.Controllers
 {
     [ApiController]
     [Route("[controller]")]
