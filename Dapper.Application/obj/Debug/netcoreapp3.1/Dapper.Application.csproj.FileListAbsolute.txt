@@ -1,0 +1,12 @@
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.deps.json
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csprojAssemblyReference.cache
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfoInputs.cache
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.AssemblyInfo.cs
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CoreCompileInputs.cache
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.csproj.CopyComplete
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Application\obj\Debug\netcoreapp3.1\Dapper.Application.pdb
