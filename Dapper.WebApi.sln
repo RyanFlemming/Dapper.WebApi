@@ -7,9 +7,14 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper.WebApi", "Dapper.Web
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper.Core", "Dapper.Core\Dapper.Core.csproj", "{D789328E-9DF2-47DB-ADA7-D912AB12EDFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Application", "Dapper.Application\Dapper.Application.csproj", "{0114BF5D-865A-452E-B670-3D330E0077B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper.Application", "Dapper.Application\Dapper.Application.csproj", "{0114BF5D-865A-452E-B670-3D330E0077B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dapper.Infrastructure", "Dapper.Infrastructure\Dapper.Infrastructure.csproj", "{A4F10207-3412-4388-B688-F5EC81894B73}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dapper.Infrastructure", "Dapper.Infrastructure\Dapper.Infrastructure.csproj", "{A4F10207-3412-4388-B688-F5EC81894B73}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B83D1318-564F-4B49-988E-BCA6FE0A172F}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
