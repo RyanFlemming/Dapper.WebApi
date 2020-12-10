@@ -194,6 +194,29 @@
             "rid": "win"
           }
         }
+      },
+      "Dapper.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Dapper.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Dapper.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dapper.Application.dll": {}
+        }
+      },
+      "Dapper.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Dapper.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Dapper.Core.dll": {}
+        }
       }
     }
   },
@@ -667,11 +690,22 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Dapper.Application/1.0.0": {
+      "type": "project",
+      "path": "../Dapper.Application/Dapper.Application.csproj",
+      "msbuildProject": "../Dapper.Application/Dapper.Application.csproj"
+    },
+    "Dapper.Core/1.0.0": {
+      "type": "project",
+      "path": "../Dapper.Core/Dapper.Core.csproj",
+      "msbuildProject": "../Dapper.Core/Dapper.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Dapper >= 2.0.78",
+      "Dapper.Application >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 5.0.0",
       "Microsoft.Extensions.DependencyInjection.Abstractions >= 5.0.0",
       "System.Data.SqlClient >= 4.8.2"
@@ -702,7 +736,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\rmf91\\source\\repos\\Dapper.WebApi\\Dapper.Application\\Dapper.Application.csproj": {
+              "projectPath": "C:\\Users\\rmf91\\source\\repos\\Dapper.WebApi\\Dapper.Application\\Dapper.Application.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

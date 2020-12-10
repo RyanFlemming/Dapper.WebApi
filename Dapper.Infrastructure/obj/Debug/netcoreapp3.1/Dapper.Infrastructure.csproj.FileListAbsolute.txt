@@ -7,3 +7,8 @@ C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\bin\Debug\netcor
 C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\obj\Debug\netcoreapp3.1\Dapper.Infrastructure.csproj.CoreCompileInputs.cache
 C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\obj\Debug\netcoreapp3.1\Dapper.Infrastructure.dll
 C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\obj\Debug\netcoreapp3.1\Dapper.Infrastructure.pdb
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\bin\Debug\netcoreapp3.1\Dapper.Application.dll
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\bin\Debug\netcoreapp3.1\Dapper.Core.dll
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\bin\Debug\netcoreapp3.1\Dapper.Application.pdb
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\bin\Debug\netcoreapp3.1\Dapper.Core.pdb
+C:\Users\rmf91\source\repos\Dapper.WebApi\Dapper.Infrastructure\obj\Debug\netcoreapp3.1\Dapper.Infrastructure.csproj.CopyComplete
